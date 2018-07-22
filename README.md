@@ -1,6 +1,6 @@
 # imazii
 
-> A Vue.js project
+> A facebook like project built using firebase and vue.js
 
 ## Build Setup
 
